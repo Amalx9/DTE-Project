@@ -11,6 +11,7 @@ import { Progress } from "@/components/ui/progress";
 import { Switch } from "@/components/ui/switch";
 import { Slider } from "@/components/ui/slider";
 import { Separator } from "@/components/ui/separator";
+npm install express --save-dev
 
 // NOTE: Removed ToastProvider import and usage to fix runtime error
 // "ToastProvider is not defined". We render a lightweight in-app toast below
